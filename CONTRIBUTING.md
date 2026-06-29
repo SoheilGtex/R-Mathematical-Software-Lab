@@ -73,6 +73,10 @@ Your submitted codes must follow structural principles and run without errors on
 
 
 
+---
+
+<div dir="rtl">
+
 
 # راهنمای ارسال پروژه‌ها (Contribution Guide)
 
